@@ -1,0 +1,22 @@
+{
+  "name": "paradise-cove-web-app",
+  "version": "1.0.0",
+  "description": "Web app for reserving beach beds at Paradise Cove",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjtrapani/Paradise-Cove-Web-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjtrapani/Paradise-Cove-Web-App/issues"
+  },
+  "homepage": "https://github.com/mjtrapani/Paradise-Cove-Web-App#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
