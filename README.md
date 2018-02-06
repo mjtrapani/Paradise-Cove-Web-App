@@ -1,3 +1,4 @@
 # Paradise Cove Web App
-liam is a platform camper
-========
+
+*A Web App for reserving beach beds at Paradise Cove
+
